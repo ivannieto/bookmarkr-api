@@ -39,3 +39,5 @@ jspm_packages
 # Other
 .package.json*
 .vscode
+
+/apuntes
